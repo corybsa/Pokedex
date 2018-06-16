@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pokemon_list_image_description">Pokemon Image</string>
+    <string name="network_connection_unavailable">Network unavailable. Please try again later.</string>
+    <string name="network_request_timed_out">Request timed out. Please try again later.</string>
+    <string name="error_unknown">Unknown error occurred. See Logcat for details.</string>
+    <string name="snackbar_action_retry">RETRY</string>
+</resources>
